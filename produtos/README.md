@@ -8,7 +8,7 @@ Todo o código foi escrito por mim com o objetivo de consolidar os conceitos apr
 
 ## 🖼️ Preview do projeto
 
-![Preview do projeto Produtos](./preview.png)
+![Preview do projeto Produtos](./preview.jpg)
 
 ---
 
