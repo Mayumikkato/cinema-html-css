@@ -6,6 +6,12 @@ Todo o código foi escrito por mim com o objetivo de consolidar os conceitos apr
 
 ---
 
+## 🖼️ Preview do projeto
+
+![Preview do projeto Produtos](./preview.png)
+
+---
+
 ## 📝 Exercício proposto
 
 O exercício consistia em criar uma página simples de apresentação de produtos, utilizando apenas HTML e CSS, seguindo os requisitos abaixo:
@@ -62,4 +68,7 @@ Este exercício faz parte do módulo introdutório de **HTML e CSS** do curso de
 ```text
 produtos/
 ├── index.html
-└── style.css
+├── style.css
+├── preview.jpg
+└── README.md
+
