@@ -8,7 +8,7 @@ Todo o código foi escrito por mim com o objetivo de consolidar os conceitos apr
 
 ## 🎥 Preview do projeto
 
-[![Preview do projeto Bikcraft](./preview-bikcraft.mp4)](./preview-bikcraft.mp4)
+https://github.com/Mayumikkato/html-css-exercicios/blob/main/bikcraft-posicionamento/preview-bikcraft.mp4
 
 > Vídeo demonstrando o layout final do projeto Bikcraft – Posicionamento.
 
@@ -16,27 +16,21 @@ Todo o código foi escrito por mim com o objetivo de consolidar os conceitos apr
 
 ## 📝 Exercício proposto
 
-O exercício consistia em criar uma página de apresentação da **Bikcraft**, utilizando apenas **HTML e CSS**, seguindo as especificações abaixo.
+O exercício consistia em criar uma página de apresentação da **Bikcraft**, utilizando apenas **HTML e CSS**, seguindo as especificações abaixo:
 
----
-
-## 🎨 Cores
+### 🎨 Cores
 
 - Cinza de fundo: `#f7f7f7`
 - Cinza para textos secundários: `#c6c6c6`
 - Vermelho (elementos de destaque): `#ee2211`
 
----
-
-## 🔤 Tipografia
+### 🔤 Tipografia
 
 - Fonte: **Arial**
 - Tamanho dos parágrafos: **20px**
 - Título “Vantagens Bikcraft”: **64px**
 
----
-
-## 📐 Layout e posicionamento
+### 📐 Layout e posicionamento
 
 - Conteúdo principal com largura máxima de **1000px**
 - Organização do layout utilizando propriedades de posicionamento em CSS
