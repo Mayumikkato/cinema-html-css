@@ -35,6 +35,21 @@ Exercício focado na construção de uma página simples de apresentação de pr
 
 ---
 
+### 🚲 Bikcraft – Posicionamento
+Exercício focado na criação de um layout de apresentação de produto, com ênfase em posicionamento de elementos, hierarquia visual e organização do conteúdo utilizando HTML e CSS.
+
+📌 Conceitos praticados:
+- Posicionamento de elementos no layout
+- Controle de largura máxima do conteúdo
+- Hierarquia visual
+- Uso de cores para destaque
+- Integração de imagens e ícones
+- Organização visual da página
+
+🔗 [Ver pasta do projeto](./bikcraft-posicionamento)
+
+---
+
 ## 🛠️ Tecnologias utilizadas
 - HTML5  
 - CSS3  
