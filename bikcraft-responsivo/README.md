@@ -38,6 +38,7 @@ A responsividade do projeto foi construída utilizando media queries e layout fl
 ```css
 @media (max-width: 1000px) { ... }
 @media (max-width: 600px) { ... }
+```
 
 ---
 
